@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "dodge charger",
+        "price": 89.99,
+        "image": { "fields": { "file": { "url": "./images/charger.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "dodge challenger",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/challenger.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "dodge durango",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/durango.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "chrysler 300",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/300.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "chrysler grand caravan",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/touring.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "jeep grand cherokee",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/cherokee.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "jeep compass",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/compass.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "jeep gladiator",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/gladiator.png" } } }
+      }
+    }
+  ]
+}
